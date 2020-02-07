@@ -23,5 +23,5 @@ this project also has level up in snake game
 
 <img src="screenshot/interface.png" heigth="350">
 
-<img src="screenshot/game over.png" width="350">
+<img src="screenshot/game-over.png" width="350">
 
