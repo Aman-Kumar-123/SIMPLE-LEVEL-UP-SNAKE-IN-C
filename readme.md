@@ -1,4 +1,4 @@
-#SIMPLE LEVEL UP SNAKE IN C
+<h1>SIMPLE LEVEL UP SNAKE IN C</h1>
 
 
 
@@ -19,7 +19,7 @@ see this code and find it
 this project also has level up in snake game
 
 
-#SCREENSHOT
+<h1>SCREENSHOT</h1>
 
 <img src="screenshot/interface.png" heigth="350">
 
